@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vishal25521/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
