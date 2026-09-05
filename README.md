@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
