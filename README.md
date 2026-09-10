@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/vishal25521/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/vishal25521/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vishal25521/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vishal25521/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
