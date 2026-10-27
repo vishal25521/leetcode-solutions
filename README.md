@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vishal25521/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vishal25521/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishal25521/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vishal25521/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Database
 |  |
