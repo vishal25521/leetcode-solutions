@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vishal25521/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vishal25521/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishal25521/leetcode-solutions/tree/master/0027-remove-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishal25521/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishal25521/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vishal25521/leetcode-solutions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vishal25521/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
