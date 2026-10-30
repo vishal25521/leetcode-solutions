@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vishal25521/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishal25521/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vishal25521/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/vishal25521/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishal25521/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vishal25521/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vishal25521/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Knapsack Problem
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishal25521/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -232,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishal25521/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
