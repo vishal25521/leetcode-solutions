@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vishal25521/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vishal25521/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vishal25521/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/vishal25521/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vishal25521/leetcode-solutions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/vishal25521/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishal25521/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vishal25521/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/vishal25521/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/vishal25521/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vishal25521/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
