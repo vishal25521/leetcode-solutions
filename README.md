@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vishal25521/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vishal25521/leetcode-solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/vishal25521/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vishal25521/leetcode-solutions/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vishal25521/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/vishal25521/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vishal25521/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/vishal25521/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vishal25521/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vishal25521/leetcode-solutions/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0101-symmetric-tree) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishal25521/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/vishal25521/leetcode-solutions/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
