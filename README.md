@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vishal25521/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vishal25521/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/vishal25521/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/vishal25521/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/vishal25521/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishal25521/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/vishal25521/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/vishal25521/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vishal25521/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
