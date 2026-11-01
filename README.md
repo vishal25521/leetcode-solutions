@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vishal25521/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/vishal25521/leetcode-solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishal25521/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vishal25521/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vishal25521/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vishal25521/leetcode-solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/vishal25521/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishal25521/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vishal25521/leetcode-solutions/tree/master/0202-happy-number) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vishal25521/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vishal25521/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vishal25521/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vishal25521/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vishal25521/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishal25521/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0137-single-number-ii) |
 ## Bracket Sequences
 |  |
