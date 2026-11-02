@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/vishal25521/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/vishal25521/leetcode-solutions/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/vishal25521/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vishal25521/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/vishal25521/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0811-subdomain-visit-count](https://github.com/vishal25521/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/vishal25521/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/vishal25521/leetcode-solutions/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/vishal25521/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0811-subdomain-visit-count](https://github.com/vishal25521/leetcode-solutions/tree/master/0811-subdomain-visit-count) |
 <!---LeetCode Topics End-->
