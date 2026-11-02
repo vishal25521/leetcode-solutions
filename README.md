@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal25521/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0867-transpose-matrix](https://github.com/vishal25521/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vishal25521/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/vishal25521/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vishal25521/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## String
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vishal25521/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishal25521/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vishal25521/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/vishal25521/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishal25521/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/vishal25521/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishal25521/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishal25521/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishal25521/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vishal25521/leetcode-solutions/tree/master/0139-word-break) |
+| [0792-number-of-matching-subsequences](https://github.com/vishal25521/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
